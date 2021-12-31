@@ -1,0 +1,1 @@
+find first date of the year (if break?) and then find the index of particular date
